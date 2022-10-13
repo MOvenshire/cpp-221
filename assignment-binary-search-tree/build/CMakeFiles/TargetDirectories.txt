@@ -1,0 +1,3 @@
+/home/movenshire/CSCE221/assignment-binary-search-tree/build/CMakeFiles/BinarySearchTree.dir
+/home/movenshire/CSCE221/assignment-binary-search-tree/build/CMakeFiles/edit_cache.dir
+/home/movenshire/CSCE221/assignment-binary-search-tree/build/CMakeFiles/rebuild_cache.dir
